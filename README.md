@@ -21,10 +21,15 @@ This repository serves as a practical demonstration of the following in C langua
 ## Repository Inlcudes In-Lab and Post-Lab Tasks of Lab 09:
 ### Programming Tasks are mentioned below:
 <ins>TASK # 1 :</ins> Basic Pointers and Account Balance Management
+
 <ins>TASK # 2 :</ins> Pointer to a 2D Array
+
 <ins>TASK # 3 :</ins> Array of Pointers
+
 <ins>TASK # 4 :</ins> Passing an Array to a Function
+
 <ins>TASK # 5 :</ins> Function Pointers
+
 <ins>TASK # 6 :</ins> Passing Function Pointers as Arguments
 
 x-------------x-------------x-------------x-------------x-------------x-------------x
